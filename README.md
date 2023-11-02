@@ -8,9 +8,10 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues]](https://github.com/Ivan-Bangal/MedicalProcess_Back/issues)
-[![GitHub Pull Requests]()](https://github.com/Ivan-Bangal/MedicalProcess_Back/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+
+[GitHub Issues] :(https://github.com/Ivan-Bangal/MedicalProcess_Back/issues)
+
+[GitHub Pull Requests](https://github.com/Ivan-Bangal/MedicalProcess_Back/pulls)
 
 </div>
 
