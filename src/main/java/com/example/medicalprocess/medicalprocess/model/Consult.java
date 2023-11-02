@@ -39,7 +39,7 @@ public class Consult {
     @Temporal(TemporalType.DATE)
     private Date consultDate;
 
-
+    @Column
     @CreationTimestamp
 	private Date timestamp;
 

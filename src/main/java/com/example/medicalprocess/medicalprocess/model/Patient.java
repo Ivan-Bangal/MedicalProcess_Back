@@ -34,8 +34,10 @@ public class Patient {
     @Temporal(TemporalType.DATE)
     private Date birthDate;
     
+    @Column
     private double weight;
 
+    @Column
     private double height;
 
 }

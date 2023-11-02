@@ -4,14 +4,11 @@ import java.util.Date;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
-import javax.persistence.EntityListeners;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
-
-import org.springframework.data.jpa.domain.support.AuditingEntityListener;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -35,8 +32,10 @@ public class Medic {
     @Temporal(TemporalType.DATE)
     private Date birthDate;
 
+    @Column
     private String address;
 
+    @Column
     private String cellPhone;
 
 }
