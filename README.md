@@ -61,6 +61,15 @@ BTW, este repositorio só contém a API
     Eclipse, VS Code, IntelliJ........ Nada de Netbeans😂😂
   </li>
   <li>
+    Tesseract OCR --> MUITO IMPORTANTE!!!!!
+
+    Para obter o Tesseract podem seguir este Link: https://github.com/UB-Mannheim/tesseract/wiki 
+
+    A ideia é que muitos médicos já terão processos clinicos com eles, sendo assim é bastante importante importar estes processos e criar o processo via OCR
+
+    Esta funcionalidade não está implementada no seu completo, mas o pacote e uma base de como funciona já está disponivel no OCRController
+  </li>
+  <li>
     Conhecimentos de Spring / Spring Boot, apesar que digo isto só usei a parte mais basica para não confusionar muito
   </li>
 
